@@ -1,0 +1,64 @@
+.main{
+	padding: 0px;
+	margin:0px;
+	background-color: #080808;	
+}
+.row{
+	background-color:rgb(32,32,32);
+}
+#playerface img
+{
+	border:10px white solid;
+}
+h2
+{
+	color: white;
+}
+#playerbasic table
+{
+	border:5px green solid;
+	color: white;
+}
+#playerbasic td
+{
+	padding: 10px;
+	border: 2px blue solid;
+	background-color: black;
+}
+
+#playerbats table
+{
+	border:5px green solid;
+	color: white;
+}
+#playerbowls table
+{
+	border:5px green solid;
+	color: white;
+}
+#playerbats td
+{
+	padding: 10px;
+	border: 2px blue solid;
+	background-color: black;
+}	
+#playerbowls td
+{
+	padding: 10px;
+	border: 2px blue solid;
+	background-color: black;	
+}
+th{
+	border:2px red solid;
+}
+#teams table
+{
+	border:5px green solid;
+	color: white;
+}
+#teams td
+{
+	padding: 10px;
+	border: 2px blue solid;
+	background-color: black;
+}
